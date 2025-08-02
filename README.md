@@ -16,8 +16,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/sathsara-wickramasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathsara-wickramasinghe" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sathsarawickramsinghe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sathsarawickramasinghe" height="30" width="40" /></a>
-<a href="https://instagram.com/sathsara_wickramasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathsara_wickramasinghe" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sathsarawickramasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sathsarawickramasinghe" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sathsara_wickramasinghe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathsara_wickramasinghe" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sathsarawickramasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sathsarawickramasinghe" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
