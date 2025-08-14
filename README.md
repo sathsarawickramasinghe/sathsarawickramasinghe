@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathsara Wickramasinghe</h1>
-<h3 align="center">A Frontend Student from Sri Lanka, Who currently studying React Js.</h3>
+<h3 align="center">A HND Student from Sri Lanka, Who currently studying Node JS .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathsarawickramasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="sathsarawickramasinghe" /> </p>
 <hr>
